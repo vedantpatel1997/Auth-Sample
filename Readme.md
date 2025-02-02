@@ -1,5 +1,3 @@
-Sure! Here’s how you could structure the document in a GitHub README format for configuring authentication between a **Front-End Azure Web App** and a **Back-End Azure Container App** using **Azure EasyAuth**:
-
 ---
 
 # **Configuring Authentication for Front-End Azure Web App and Back-End Azure Container App using Azure EasyAuth**
